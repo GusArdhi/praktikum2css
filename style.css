@@ -10,8 +10,9 @@
     border:thin solid black !important;
 }
 body{
-       font-family: 'Noto Sans JP', sans-serif;
-       color: #4e4e4e;
+       background-color: rgb(255, 0, 234);   
+       font-family: 'Train One', cursive;
+       color: #48ff00;
        font-size: 16pt;
 }
 header{
@@ -20,7 +21,7 @@ header{
        padding: 20px;
    }
    footer{
-       color: rgb(100, 149, 237);
+       color: rgb(235, 252, 5);
        font-size: 24pt;
    }
    .container{
